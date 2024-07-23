@@ -6,7 +6,7 @@
         <span>Режим работы: пн-пт с 9 до 18</span>
       </div>
       <div class="contact-details">
-        <a href="mailto:afan1231231312@inbox.ru">1112312313@inbox.ru</a>
+        <a href="mailto:afan1231231312@inbox.ru">11212312313@inbox.ru</a>
         <div class="social-icons">
           <i class="bi bi-telegram"></i>
           <i class="bi bi-whatsapp"></i>
